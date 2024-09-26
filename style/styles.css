@@ -3,7 +3,8 @@
     /* font-size: 26px; */
   }
 .head-img {
-    width: 50px;
+    width: 45px;
+    margin-top: 3px;
     /* margin-left: 10%;
     padding: 3px;
     padding-right: 10px;
@@ -16,10 +17,10 @@
 }
 header {
     /* background-color: aquamarine; */
-    /* margin-top: 0px; */
+    /* margin-left: px; */
     /* padding: auto; */
     display: flex;
-    margin-left: 20px;
+    margin-left: 40px;
     /* color: red; */
     /* position: fixed; */
     top: 0px;
@@ -27,5 +28,8 @@ header {
 
 .text {
     /* flex: auto; */
-    letter-spacing: -1px;
+    letter-spacing: -2px;
+    margin: 8px;
+    font-weight: bold;
+    /* font-size: ; */
 }
