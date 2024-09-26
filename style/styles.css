@@ -1,0 +1,31 @@
+* {
+    font-family: sans-serif;
+    /* font-size: 26px; */
+  }
+.head-img {
+    width: 50px;
+    /* margin-left: 10%;
+    padding: 3px;
+    padding-right: 10px;
+    flex: auto; */
+}
+
+.judul{
+    /* margin-left: 20%; */
+
+}
+header {
+    /* background-color: aquamarine; */
+    /* margin-top: 0px; */
+    /* padding: auto; */
+    display: flex;
+    margin-left: 20px;
+    /* color: red; */
+    /* position: fixed; */
+    top: 0px;
+}
+
+.text {
+    /* flex: auto; */
+    letter-spacing: -1px;
+}
